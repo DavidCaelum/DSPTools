@@ -23,6 +23,8 @@ SOFTWARE.*/
 #ifndef DSPTOOLS_AUDIO_BUFFER_INFO_HEADER_INCLUDED
 #define DSPTOOLS_AUDIO_BUFFER_INFO_HEADER_INCLUDED
 
+#include <cassert>
+
 namespace DSPTools {
 
 template <typename type>

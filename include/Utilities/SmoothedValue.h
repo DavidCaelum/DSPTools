@@ -23,6 +23,8 @@ SOFTWARE.*/
 #ifndef DSPTOOLS_SMOOTHED_VALUE_HEADER_INCLUDED
 #define DSPTOOLS_SMOOTHED_VALUE_HEADER_INCLUDED
 
+#include <cassert>
+
 namespace DSPTools {
 
 template <typename type>

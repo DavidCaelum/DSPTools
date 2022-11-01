@@ -64,3 +64,69 @@ examples/JUCEExample/JuceLibraryCode/include_juce_gui_extra.mm
 examples/JUCEExample/JuceLibraryCode/JuceHeader.h
 examples/JUCEExample/JuceLibraryCode/JucePluginDefines.h
 examples/JUCEExample/JuceLibraryCode/ReadMe.txt
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/.suo
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/Browse.VC.db
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/Browse.VC.db-shm
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/Browse.VC.db-wal
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/Browse.VC.opendb
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/ipch/AutoPCH/abe748412a7be0b0/PLUGINEDITOR.ipch
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/Solution.VC.db
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/Solution.VC.db-shm
+examples/JUCEExample/Builds/VisualStudio2019/.vs/DSPTools/v16/Solution.VC.db-wal
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools.sln
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools_SharedCode.vcxproj
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools_SharedCode.vcxproj.filters
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools_StandalonePlugin.vcxproj
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools_StandalonePlugin.vcxproj.filters
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools_StandalonePlugin.vcxproj.user
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools_VST3.vcxproj
+examples/JUCEExample/Builds/VisualStudio2019/DSPTools_VST3.vcxproj.filters
+examples/JUCEExample/Builds/VisualStudio2019/resources.rc
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.3B24A4FA.tlog/CL.10928.write.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.3B24A4FA.tlog/CL.command.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.3B24A4FA.tlog/CL.read.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.3B24A4FA.tlog/DSPTools_SharedCode.lastbuildstate
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.3B24A4FA.tlog/Lib-link.read.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.3B24A4FA.tlog/Lib-link.write.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.3B24A4FA.tlog/Lib.command.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.lib
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.lib.recipe
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools.pdb
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools_SharedCode.log
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/DSPTools_SharedCode.vcxproj.FileListAbsolute.txt
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_basics.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_devices.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_formats.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_plugin_client_ARA.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_plugin_client_utils.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_processors.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_processors_ara.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_processors_lv2_libs.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_audio_utils.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_core.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_data_structures.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_dsp.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_events.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_graphics.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_gui_basics.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/include_juce_gui_extra.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/PluginEditor.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Shared Code/PluginProcessor.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/CL.command.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/CL.read.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/CL.write.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/DSPTools_StandalonePlugin.lastbuildstate
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/link.command.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/link.read.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/link.write.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/rc.command.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/rc.read.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.DC491460.tlog/rc.write.1.tlog
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.exe
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.exe.recipe
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.ilk
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools.pdb
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools_StandalonePlugin.log
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/DSPTools_StandalonePlugin.vcxproj.FileListAbsolute.txt
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/include_juce_audio_plugin_client_Standalone.obj
+examples/JUCEExample/Builds/VisualStudio2019/x64/Debug/Standalone Plugin/resources.res
